@@ -34,5 +34,5 @@ const elderMüller = {
 </div>
     
 ### 📫 Contatos:
-- LinkedIn: linkedin.com/in/elder-muller
+- LinkedIn: https:/www.linkedin.com/in/elder-muller
 - E-mail: elder.muller@gmail.com
