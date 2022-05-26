@@ -26,15 +26,12 @@ const elderMüller = {
 ### 📈 Minhas estatísticas
 
 <div>
-<a href="https://github.com/eldermuller">
+  <a href="https://github.com/eldermuller">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=eldermuller&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldermuller&layout=compact&langs_count=7&theme=react" />
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldermuller&layout=compact&langs_count=7&theme=highcontrast"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=eldermuller&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
-</br>
-  <a href="https://wakatime.com/@604dc574-b498-4086-a563-66d1804a2585"><img src="https://wakatime.com/badge/user/604dc574-b498-4086-a563-66d1804a2585.svg" alt="Total time coded since Nov 16 2021" /></a>
-    </br>
-    </br>
     
 ### 📫 Contatos:
 - LinkedIn: https://www.linkedin.com/in/elder-muller
