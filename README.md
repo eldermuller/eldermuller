@@ -9,10 +9,10 @@ Apaixonado por ficção científica, afcionado por Star Wars, doido por dinossau
 
 ```javascript
 const elderMüller = {
-    formação: ["biólogo", "desenvolvedor"]
+    formação: ["biólogo", "desenvolvedor"],
     hobbies: ["leitura", "bater papo", "assistir o pôr do sol"],
     code: "JavaScript",
-    tenhoHabilidadesEm: ["CSS", "HTML, "JavaScript", React", "PostgreSQL"],
+    tenhoHabilidadesEm: ["JavaScript", "CSS", "HTML, React", "PostgreSQL"],
     objetivoAtual: "Atuar na mercado de tecnologia, e usar todo conhecimento adquirido até aqui para tranformação de realidades"
 };
 ```
