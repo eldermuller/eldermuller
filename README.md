@@ -6,7 +6,7 @@
 
 <br>
 
-Amante da ciência e tecnologia, e querendo virar cientista me formei em biologia, trabalhei com pesquisa, educação em ciência e atualmente estou me tornando desenvolvedor web full stack através de um curso de 8 meses na Cubos Academy.
+Amante da ciência e tecnologia, e querendo virar cientista me formei em biologia, trabalhei com pesquisa, educação em ciência e recentemente me tornei desenvolvedor web full stack através de um curso de 8 meses na Cubos Academy.
 Apaixonado por ficção científica, aficionado por Star Wars, doido por dinossauros e gosto de falar curiosidades aleatórias de biologia durante a conversa... aliás, sabia que aves são dinossauros e que o parente mais próximo do T-rex é a galinha?
 
 <br>
