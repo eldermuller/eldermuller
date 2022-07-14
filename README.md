@@ -2,7 +2,7 @@
 
 ### Olá, fique à vontade e não repara a bagunça!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px"> 
 
-<img align="right" padding-left= "11px" alt="vade dancing gif" src="https://user-images.githubusercontent.com/94017088/170401486-bd4b00b5-7128-4fb3-8900-9d658daf6494.gif">
+<img align="right" padding-left= "0px" alt="vade dancing gif" src="https://user-images.githubusercontent.com/94017088/170401486-bd4b00b5-7128-4fb3-8900-9d658daf6494.gif">
 
 <br>
 
@@ -16,7 +16,7 @@ const elderMüller = {
     formação: ["biólogo", "desenvolvedor"],
     hobbies: ["leitura", "bater papo", "assistir o pôr do sol"],
     code: "JavaScript",
-    tenhoHabilidadesEm: ["JavaScript", "CSS", "HTML, React", "PostgreSQL"],
+    tenhoHabilidadesEm: ["JavaScript", "CSS", "HTML, React", "Node.js", "PostgreSQL", "Git"],
     objetivoAtual: "Atuar na mercado de tecnologia, e usar todo conhecimento adquirido até aqui para transformação de realidades"
 };
 ```
