@@ -1,6 +1,6 @@
 # Élder Müller <img src=https://user-images.githubusercontent.com/94017088/170396915-44a293fa-9180-421d-b6e8-8691e934fb24.gif width="29px">
 
-### Olá, fique à vontade e não repara a bagunça! <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px">  -->
+### Olá, fique à vontade e não repara a bagunça!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px"> 
 
 <img align="right" padding-left= "11px" alt="vade dancing gif" src="https://user-images.githubusercontent.com/94017088/170401486-bd4b00b5-7128-4fb3-8900-9d658daf6494.gif">
 
