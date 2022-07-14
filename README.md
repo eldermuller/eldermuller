@@ -20,7 +20,7 @@ const elderMüller = {
     formação: ["biólogo", "desenvolvedor"],
     hobbies: ["leitura", "bater papo", "assistir o pôr do sol"],
     tenhoHabilidadesEm: ["JavaScript", "CSS", "HTML, React", "Node.js", "PostgreSQL", "Git"],
-    objetivoAtual: "Atuar na mercado de tecnologia, e usar todo conhecimento adquirido até aqui para transformação de realidades"
+    objetivoAtual: "Atuar no mercado de tecnologia, e usar todo conhecimento adquirido até aqui para transformação de realidades"
 };
 ```
 
