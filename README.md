@@ -11,10 +11,6 @@ Apaixonado por ficção científica, aficionado por Star Wars, doido por dinossa
 
 <br>
 
-![dino](https://user-images.githubusercontent.com/94017088/170399592-32c9a6b9-c4ec-46b5-8c35-ecdfe97c6d27.gif)
-
-<br>
-
 ```javascript
 const elderMuller = {
     formação: ["biólogo", "desenvolvedor"],
@@ -23,6 +19,11 @@ const elderMuller = {
     objetivoAtual: "Atuar no mercado de tecnologia, e usar todo conhecimento adquirido até aqui para transformação de realidades"
 };
 ```
+<br>
+
+![dino](https://user-images.githubusercontent.com/94017088/170399592-32c9a6b9-c4ec-46b5-8c35-ecdfe97c6d27.gif)
+
+<br>
 
 ### 🛠️ Linguagens e ferramentas:
 
