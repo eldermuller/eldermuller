@@ -15,7 +15,7 @@ Apaixonado por ficção científica, aficionado por Star Wars, doido por dinossa
 const elderMuller = {
     formação: ["biólogo", "desenvolvedor"],
     hobbies: ["leitura", "bater papo", "assistir o pôr do sol"],
-    tenhoHabilidadesEm: ["JavaScript", "CSS", "HTML", "React", "Node.js", "PostgreSQL", "Git"],
+    tenhoHabilidadesEm: ["JavaScript", "CSS", "HTML", "React", "Node.js", "PostgreSQL", "Git", "Jest", "Docker"],
     objetivoAtual: "Atuar no mercado de tecnologia, e usar todo conhecimento adquirido até aqui para 
     transformação de realidades"
 };
